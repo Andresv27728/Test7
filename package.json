@@ -1,4 +1,4 @@
-{"name":"Quantum_Bot","version":"1.5.5","description":"Bot simple para Whatsapp, con alguno que otro error, no soy programador :v","type":"module","main":"nk.js","directories":{"lib":"lib","multimedia":"multimedia","basededatos":"basededatos"},"scripts":{"test":"bash lib/nkobit/neo.sh","start":"node nk.js"},"keywords":["termux","whatsapp","bot","whatsapp","bot","md"],"author":{"name":"Ne_Kosmic"},"license":"GPL-3.0","engines":{"npm":">=11.5.2","node":">=18.0.0"},"dependencies":{
+{"name":"Quantum_Bot","version":"1.5.5","description":"Bot simple para Whatsapp, con alguno que otro error, no soy programador :v","type":"module","main":"nk.js","directories":{"lib":"lib","multimedia":"multimedia","basededatos":"basededatos"},"scripts":{"test":"bash lib/nkobit/neo.sh","start":"node nk.js"},"keywords":["termux","whatsapp","bot","whatsapp","bot","md"],"author":{"name":"Ne_Kosmic"},"license":"GPL-3.0","engines":{"npm":">=*","node":">=*"},"dependencies":{
     "axios": "^1.7.9",
     "baileys": "^6.7.18",
     "cfonts": "^3.3.0",
