@@ -1,12 +1,12 @@
 {
-	"Prefijo": ".",
+	"Prefijo": "!",
 	"MultiIdioma": [
 		true,
 		""
 	],
 	"Propietario": {
-		"51991630056": {
-			"nm": "Matt_Mdz",
+		"573133374132": {
+			"nm": "yossoyyo",
 			"ac": true
 		},
 		"51999999999": {
@@ -20,7 +20,7 @@
 	],
 	"Mode": "default",
 	"LocPref": "51",
-	"NombreDelBot": "QUANTUM-BOT",
+	"NombreDelBot": "un bot mas XD",
 	"MinimoDeUsuarios": 3,
 	"Limits": {
 		"gms": 10,
@@ -29,7 +29,7 @@
 	},
 	"Blacklist": ["20","21","22","23","24","25","26","27","28","29","30","31","32","33","35","36","37","38","39","40","41","42","43","44","45","46","47","48","57","60","61","63","64","65","66","67","68","69","7","80","81","82","83","84","85","86","87","88","89","90","91","92","93","94","95","96","97","98","99"],
 	"AntiFlood": "low",
-	"CanalJid": "120363173007028270@newsletter",
+	"CanalJid": "120363399729727124@newsletter",
 	"WlcLink": "",
 	"FakeServer": false,
 	"recursion": true
